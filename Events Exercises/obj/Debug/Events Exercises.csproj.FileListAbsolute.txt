@@ -1,0 +1,11 @@
+D:\A new beginning 💪\Events Exercises\bin\Debug\Events Exercises.exe.config
+D:\A new beginning 💪\Events Exercises\bin\Debug\Events Exercises.exe
+D:\A new beginning 💪\Events Exercises\bin\Debug\Events Exercises.pdb
+D:\A new beginning 💪\Events Exercises\obj\Debug\Events Exercises.csproj.AssemblyReference.cache
+D:\A new beginning 💪\Events Exercises\obj\Debug\Events_Exercises.CTR_Calculator.resources
+D:\A new beginning 💪\Events Exercises\obj\Debug\Events_Exercises.Form1.resources
+D:\A new beginning 💪\Events Exercises\obj\Debug\Events_Exercises.Properties.Resources.resources
+D:\A new beginning 💪\Events Exercises\obj\Debug\Events Exercises.csproj.GenerateResource.cache
+D:\A new beginning 💪\Events Exercises\obj\Debug\Events Exercises.csproj.CoreCompileInputs.cache
+D:\A new beginning 💪\Events Exercises\obj\Debug\Events Exercises.exe
+D:\A new beginning 💪\Events Exercises\obj\Debug\Events Exercises.pdb

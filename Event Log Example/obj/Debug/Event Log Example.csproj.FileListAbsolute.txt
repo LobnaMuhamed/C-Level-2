@@ -1,0 +1,7 @@
+D:\A new beginning 💪\C#\C# Level 2\Event Log Example\bin\Debug\Event Log Example.exe.config
+D:\A new beginning 💪\C#\C# Level 2\Event Log Example\bin\Debug\Event Log Example.exe
+D:\A new beginning 💪\C#\C# Level 2\Event Log Example\bin\Debug\Event Log Example.pdb
+D:\A new beginning 💪\C#\C# Level 2\Event Log Example\obj\Debug\Event Log Example.csproj.AssemblyReference.cache
+D:\A new beginning 💪\C#\C# Level 2\Event Log Example\obj\Debug\Event Log Example.csproj.CoreCompileInputs.cache
+D:\A new beginning 💪\C#\C# Level 2\Event Log Example\obj\Debug\Event Log Example.exe
+D:\A new beginning 💪\C#\C# Level 2\Event Log Example\obj\Debug\Event Log Example.pdb
